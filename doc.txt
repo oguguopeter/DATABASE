@@ -1,0 +1,54 @@
+[Slide 1]
+
+Title: NoSQL vs. SQL - A Comparison
+Subtitle: MongoDB vs. SQL
+
+[Slide 2]
+
+Title: NoSQL - MongoDB
+- NoSQL database
+- Schema-less structure
+- Uses flexible, JSON-like documents for data representation
+- Supports horizontal scalability
+- Offers high performance for read-heavy workloads
+
+[Slide 3]
+
+Title: SQL - Relational Database
+- Structured Query Language (SQL) based database
+- Relational structure with tables, rows, and columns
+- Uses predefined schema for data representation
+- Supports complex querying and joins
+- Provides strong data consistency and integrity
+
+[Slide 4]
+
+Title: Comparison
+1. Data Model:
+   - MongoDB: Document-oriented
+   - SQL: Relational model
+
+2. Schema:
+   - MongoDB: Schema-less, flexible
+   - SQL: Predefined schema, rigid
+
+3. Scalability:
+   - MongoDB: Horizontal scalability with sharding
+   - SQL: Vertical scalability with more powerful hardware
+
+4. Querying:
+   - MongoDB: Supports rich queries and indexing
+   - SQL: Offers powerful querying capabilities with SQL language
+
+5. Data Integrity:
+   - MongoDB: Eventual consistency, flexible data updates
+   - SQL: Strong data consistency and integrity with ACID properties
+
+[Slide 5]
+
+Title: Conclusion
+- MongoDB and SQL serve different purposes based on the requirements of the project.
+- MongoDB is well-suited for flexible, scalable, and high-performance applications.
+- SQL databases excel in structured data, complex querying, and maintaining strong data integrity.
+
+Note: Please note that the content provided here is a brief outline for the presentation slides. You can expand on each point and add more details as per your requirements and knowledge of MongoDB and SQL.
